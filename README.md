@@ -19,4 +19,10 @@ create requirement.txt file and add all required package name there
 and  run the command
 ```pip install -r requirement.txt```
 
+ Commit to the git 
  
+ ```git add .```
+
+ ```git commit -m "message"```
+
+ ```git push origin main```
